@@ -1,0 +1,13 @@
+.header{
+  height: 10vh;
+  text-align: center;
+  background-color: rgb(68, 68, 68);
+}
+
+.header .headerData {
+  font-size: 3vmin;
+}
+
+.link{
+  color: black !important;
+}

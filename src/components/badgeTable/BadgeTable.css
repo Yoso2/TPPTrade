@@ -1,0 +1,32 @@
+/* .ascending{
+    background-image: url('../../images/ascending.png');
+}
+
+.unsorted{
+    background-image: url('../../images/unsorted.png');
+}
+
+.descending{
+    background-image: url('../../images/unsorted.png');
+} */
+
+.sort{
+    height: 25px;
+    width: 25px;
+    margin-right: 20px;
+}
+
+.genSelect{
+    float: left;
+    width: 15vw;
+}
+
+.selector{
+    width: 15vw !important;
+    display: inline-block;
+
+}
+
+.thheader{
+    display: ruby;
+}
